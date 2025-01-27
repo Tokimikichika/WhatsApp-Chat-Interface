@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WhatsApp-Chat-Interface/static/css/main.0aa7e9cc.css",
+    "main.js": "/WhatsApp-Chat-Interface/static/js/main.a1802e67.js",
+    "index.html": "/WhatsApp-Chat-Interface/index.html",
+    "main.0aa7e9cc.css.map": "/WhatsApp-Chat-Interface/static/css/main.0aa7e9cc.css.map",
+    "main.a1802e67.js.map": "/WhatsApp-Chat-Interface/static/js/main.a1802e67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aa7e9cc.css",
+    "static/js/main.a1802e67.js"
+  ]
+}
